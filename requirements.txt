@@ -1,0 +1,11 @@
+black==23.7.0
+click==8.1.6
+launchdarkly-api @ git+https://github.com/launchdarkly/api-client-python.git@ae3f1982b59f78e59c8c09ec1bb7e3dd29eb1447
+mypy-extensions==1.0.0
+packaging==23.1
+pathspec==0.11.2
+platformdirs==3.10.0
+python-dateutil==2.8.2
+python-dotenv==1.0.0
+six==1.16.0
+urllib3==2.0.4
